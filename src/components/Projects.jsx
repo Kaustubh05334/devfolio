@@ -9,7 +9,13 @@ const Projects = () => {
             title: "Voice Assistant",
             category: "Python" 
         },
-        
+        {
+            id:2,
+            image: "ecomm.jpg",
+            link: "https://github.com/Kaustubh05334/django-ecommerce-website",
+            title: "Ecommerce Website",
+            category : "Django Tailwind"
+        },
       ];
     return (
         <div className='pt-8 mb-20' id='project'>
